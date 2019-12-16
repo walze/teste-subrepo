@@ -2,3 +2,7 @@
 	path = winesweeper
 	url = https://github.com/walze/winesweeper.git
 	branch = master
+[submodule "cellular-automaton"]
+	path = cellular-automaton
+	url = https://github.com/walze/cellular-automaton
+	branch = master
