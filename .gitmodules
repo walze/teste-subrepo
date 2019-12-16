@@ -1,0 +1,4 @@
+[submodule "winesweeper"]
+	path = winesweeper
+	url = https://github.com/walze/winesweeper.git
+	branch = master
